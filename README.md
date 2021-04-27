@@ -6,7 +6,7 @@
 -->
 <h1 align="center">Hi 👋, I'm H R Shrayank</h1>
 <h3 align="center">Bangalore,India</h3>
-<p>I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.</p>
+<p>Hi, I am Full Stack Web Developer skilled in Express js , Node.js, MongoDB, React, Javascript, Material-UI, CSS, HTML and Data Structures and Algorithm.</p>
 
 <p align="left">🌱 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer</p>
 
