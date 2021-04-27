@@ -6,7 +6,7 @@
 -->
 <h1 align="center">Hi 👋, I'm H R Shrayank</h1>
 <h3 align="center">Bangalore,India</h3>
-I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
+<p>I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.</p>
 
 <p align="left">🌱 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer</p>
 
@@ -41,7 +41,7 @@ You can find my work on my <a href="https://shrayank-portfolio.netlify.app/" tar
 <br/>
 
 ### 👯 Other interests
-I like cycling and travelling.
+<p>I like cycling and travelling.</p>
 
 
 
