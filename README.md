@@ -8,17 +8,14 @@
 <h3 align="center">Bangalore,India</h3>
 I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
 ### 🌱 Currently looking for opportunities as a **MERN Stack** developer to help me learn and grow as a web developer.
-
-###📫 How to reach me: 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="mailto:hrshrayank77@gmail.com" target="blank"><img align="center" src=" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://twitter.com/hrshrayank77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrshrayank" height="30" width="40" /></a>
  
-  <a href="https://twitter.com/hrshrayank77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-
-<a href="https://www.linkedin.com/in/hrshrayank/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hrshrayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrshrayank" height="30" width="40" /></a>
 
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -34,10 +31,7 @@ I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am sk
  
 </div>
 <br/>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshrayank&show_icons=true&locale=en&layout=compact" alt="jigyasa08" />
-</div>
-<br/>
+
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=hrshrayank&theme=highcontrast&show_icons=true"/></div>
 <br/>
