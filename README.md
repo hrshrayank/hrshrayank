@@ -9,6 +9,8 @@
 I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
 
 <p align="left">🌱 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/hrshrayank77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrshrayank" height="30" width="40" /></a>
@@ -16,7 +18,8 @@ I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am sk
 <a href="https://www.linkedin.com/in/hrshrayank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrshrayank" height="30" width="40" /></a>
 
 </p>
-
+<h3> 💬 Want to know more about me?</h3>
+You can find my work on my <a href="https://shrayank-portfolio.netlify.app/" target="blank">Portfolio</a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
@@ -36,8 +39,6 @@ I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am sk
 
 <div><img src="https://github-readme-stats.vercel.app/api?username=hrshrayank&theme=highcontrast&show_icons=true"/></div>
 <br/>
-<h3> 💬 Want to know more about me?</h3>
-You can find my work on my <a href="https://shrayank-portfolio.netlify.app/" target="blank">Portfolio</a>.
 
 ### 👯 Other interests
 I like cycling and travelling.
