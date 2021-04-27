@@ -8,7 +8,7 @@
 <h3 align="center">Bangalore,India</h3>
 I am H R Sharayank from Bangalore, India. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
 
-<p align="left">🌱 Currently looking for opportunities as a **MERN Stack** developer to help me learn and grow as a web developer</p>
+<p align="left">🌱 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/hrshrayank77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrshrayank" height="30" width="40" /></a>
