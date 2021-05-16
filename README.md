@@ -11,10 +11,9 @@
 <p align="left">🌱 Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer</p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
 <a href="https://www.linkedin.com/in/hrshrayank"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40"/></a>
-
 <a href="https://github.com/hrshrayank"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:hrshrayank77@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/hrshrayank77"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
